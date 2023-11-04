@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently a student pursuing MSc. Theoretical Computer Science<br>
+🔭 Currently a student pursuing MSc.Theoretical Computer Science in PSG College of Technology, Coimbatore<br>
 
 
 ## 🌐 Socials:
